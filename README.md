@@ -1,4 +1,4 @@
-This python lets the user read an excel file, modify it, and write it to a database.
+This python app lets the user read an excel file, modify it, and write it to a database.
 
 The following libraries need to be installed:  
   openpyxl    https://openpyxl.readthedocs.io/en/stable/  
