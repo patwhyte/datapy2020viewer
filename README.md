@@ -8,3 +8,4 @@ Other software used are:
 excel       https://www.microsoft.com/en-us/microsoft-365/excel
 db browser  https://sqlitebrowser.org/
 
+See example files above, Books 1&2 for excel and termProject for db.
